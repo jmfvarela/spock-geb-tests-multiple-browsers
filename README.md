@@ -8,5 +8,5 @@ Proof of concept: Spock and geb functional testing with multiple browsers
 gradlew clean tests
 ```
 (or ```gradlew-test.bat``` in Windows: edit ```gradlew-test-with-proxy.bat``` to work behind a proxy). 
-* Look for reports in ```build/reports/tests/index.html```.
+* Look for reports in ```build/reports/tests/index.html```
 (direct access in Windows with ```Link-to-reports```).
